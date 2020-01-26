@@ -1,0 +1,51 @@
+#txtDescription{
+    font-family: 'Montserrat', sans-serif;
+    color:"black";
+    font-size: 18px;
+    text-align: justify;
+}
+h1{
+    font-family: 'Bubblegum Sans';
+    color: #047531;
+    text-align: center;
+}
+.card-body{
+    background-color: #FFFFFF
+}
+#btnBack{
+    align-content: center;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color:"black";
+    font-size: 18px;
+}
+#voteTitle, #VoteBtn, #voted, #ChangeBtn{
+    text-align: center;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    color:"black";
+    text-align: center;
+}
+#comentsTitle{
+    font-family: 'Bubblegum Sans';
+    color: #047531;
+    text-align: left;
+}
+#comentsZone{
+    background-color: #7FB800;
+}
+#imgUse{
+    max-width:100px;
+    max-height:125spx;
+    width: auto;
+    height: auto;
+}
+#coments{
+    background-color: #7FB800;
+}
+#user{
+    font-family: 'Bubblegum Sans';
+    color: #047531;
+}

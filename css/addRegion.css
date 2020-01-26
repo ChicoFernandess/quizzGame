@@ -1,0 +1,13 @@
+#addCountry{
+    background-color: #7FB800;
+}
+
+#addCountry h3 {
+    font-family: 'Bubblegum Sans';
+    color: rgb(255, 255, 255)
+}
+
+#addCountry label{
+   color: #047531;
+
+}

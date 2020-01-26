@@ -1,0 +1,83 @@
+#body{
+    background-color:#00A6ED;
+}
+.navbar{
+    background-color:#7FB800;
+}
+.navbar-brand img{
+    height: 35px;
+}
+
+#collapsibleNavId a{
+    color: #047531;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 22px
+}
+
+#loggedUser a{
+    font-family: 'Montserrat medium', sans-serif;
+    color:"black";
+    font-size: 25px;
+}
+#login{
+    color: #ffffff;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 20px
+}
+#btnLogout{
+    color: #ffffff;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 22px
+}
+.modal-header{
+    background-color: #FFB400;
+
+}
+
+.modal-body{
+    background-color: #FFB400;
+}
+
+.modal-footer{
+    background-color: #FFB400;
+}
+
+.modal-title{
+    font-family: "Bubblegum Sans";
+    color: #047531;
+    font-size: 30px;
+}
+
+#imgUser{
+    height: 30px;
+}
+
+#imgPassword{
+    height: 30px;
+}
+
+.form-group label{
+    font-family: 'Bubblegum Sans';
+    color: #047531;
+    font-size: 22px;
+    vertical-align: middle;
+}
+
+#prof{
+    height: 500px;
+}
+
+#container h3{
+    font-family: 'Bubblegum Sans';
+    color: #FFFFFF;
+}
+
+#container p{
+    font-family: 'Montserrat medium', sans-serif;
+    color:"black";
+    font-size: 18px;
+    text-align: justify;
+}
+#video{
+    display: inline-block;
+   }

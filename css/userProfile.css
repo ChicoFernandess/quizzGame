@@ -1,0 +1,27 @@
+#container{
+    background-color: #7FB800;
+}
+#imgUse{
+    max-width:200px;
+    max-height:230px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+#userName{
+    text-align: center;
+}
+#btnChangePho{
+    text-align: center;
+}
+#btnChangePass{
+    text-align: center;
+}
+#userPage{
+    background: #7FB800
+}
+h4{
+    text-align: center;
+}
